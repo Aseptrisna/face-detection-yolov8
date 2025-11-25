@@ -108,7 +108,7 @@ Cara Menjalankan
    pip install -r requirements.txt
 
 2. Jalankan program:
-   python yolo_face_auto.py
+   python main.py
 
 ------------------------------------------------------------
 Struktur Folder
