@@ -116,7 +116,7 @@ Struktur Folder
 
 project/
 │
-├─ yolo_face_auto.py  
+├─ main.py  
 ├─ requirements.txt  
 └─ README.md  
 
