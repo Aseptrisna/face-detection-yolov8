@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+openpyxl
+statsmodels
+tensorflow
+prophet
+scikit-learn
+ultralytics
+opencv-python
